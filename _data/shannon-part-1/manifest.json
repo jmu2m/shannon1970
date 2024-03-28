@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://jmu2m.github.io/shannon1970/shannon-part-1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Shannon part 1" ] },
+    "homepage": [
+      {
+        "id": "https://avalon.lib.virginia.edu/media_objects/hh63sw00x",
+        "type": "Text",
+        "label": { "en": [ "Shannon part 1" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.library.virginia.edu",
+        "type": "Agent",
+        "label": { "en": [ "UVA Libraries" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://jmu2m.github.io/shannon1970/shannon-part-1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1804.0,
+        "items": [
+          {
+            "id": "https://jmu2m.github.io/shannon1970/shannon-part-1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://jmu2m.github.io/shannon1970/shannon-part-1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://avalon.lib.virginia.edu/master_files/3x816m825/supplemental_files/89",
+                    "duration": 1804.0
+                },
+                "target": "https://jmu2m.github.io/shannon1970/shannon-part-1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
