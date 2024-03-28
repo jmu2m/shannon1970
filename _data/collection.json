@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Shannon speech, May 10, 1970" ] },
+    "summary": { "en": [ "President of UVA delivers a pivotal address to the student body five days after Kent State." ] },
+    "items": [
+    ]
+}
