@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Shannon part 1
 manifest_name: shannon-part-1
 permalink: shannon-part-1
