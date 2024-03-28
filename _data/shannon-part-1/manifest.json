@@ -23,6 +23,16 @@
         "id": "https://jmu2m.github.io/shannon1970/shannon-part-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1804.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jmu2m.github.io/shannon1970/annotations/shannon-part-1-canvas-1-0-0-1.json",
+            "label": {
+              "none": ["0:0:1"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://jmu2m.github.io/shannon1970/shannon-part-1/canvas-1/paintings",
